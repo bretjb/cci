@@ -1,0 +1,14 @@
+{
+  "name": "cci-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bretjb/cci.git",
+  "author": "Bret Buchanan",
+  "license": "GPL",
+  "dependencies": {
+    "mocha": "^3.3.0"
+  },
+  "scripts": {
+    "test": "mocha -t tdd --timeout 999999 --colors ch1-strarr/*.js"
+  }
+}
