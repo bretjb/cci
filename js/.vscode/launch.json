@@ -15,7 +15,7 @@
                 "--timeout",
                 "999999",
                 "--colors",
-                "${workspaceRoot}\\ch1-strarr\\ex1.4.js"
+                "${workspaceRoot}\\ch1-strarr\\ex1.5.js"
             ],
             "internalConsoleOptions": "openOnSessionStart"
         }
